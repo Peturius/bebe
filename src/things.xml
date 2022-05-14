@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "no"?>
+<traders>
+    <trader name = "Béla">
+        <trade id = "1">
+            <priceamount>15</priceamount>
+            <priceitem>Coal</priceitem>
+            <rewardamount>1</rewardamount>
+            <rewarditem>Emerald</rewarditem>
+        </trade>
+        <trade id = "2">
+            <priceamount>22</priceamount>
+            <priceitem>Emerald</priceitem>
+            <rewardamount>1</rewardamount>
+            <rewarditem>Iron Helmet</rewarditem>
+        </trade>
+    </trader>
+    <trader name = "Pista">
+        <trade id = "3">
+            <priceamount>1</priceamount>
+            <priceitem>Emerald</priceitem>
+            <rewardamount>2</rewardamount>
+            <rewarditem>Soup</rewarditem>
+        </trade>
+        <trade id = "4">
+            <priceamount>44</priceamount>
+            <priceitem>Gold</priceitem>
+            <rewardamount>1</rewardamount>
+            <rewarditem>Handshake</rewarditem>
+        </trade>
+    </trader>
+</traders>
